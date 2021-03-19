@@ -1502,10 +1502,17 @@
   "version" "1.1.3"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 "@project-serum/serum@^0.13.25":
   version "0.13.25"
   resolved "https://registry.yarnpkg.com/@project-serum/serum/-/serum-0.13.25.tgz#40cbeaed03bb69e6a8c3e9117359b70ef155042e"
   integrity sha512-IdK768TwM3tJHDPpt3iJ9AR7sMECrXD5B5i+oZhHR2+06Mun9djx/PtTTVYik161PjJXkuQozfWVk2a003s0CQ==
+=======
+"@project-serum/serum@^0.13.29":
+  version "0.13.29"
+  resolved "https://registry.yarnpkg.com/@project-serum/serum/-/serum-0.13.29.tgz#e8c0523ddfc702e6dea476d99bd1b2f2a5243cfd"
+  integrity sha512-Cw18mTWwwWO6llR+sGS5IvLWDNx3FdWeswO+EamwTqJrT6yvcZsl5aaHnrSPaKgW8ePwrF0g3qw4JDTgDWHYBA==
+>>>>>>> 2cb9c32... feat: add useUserTotalBalance
   dependencies:
     "@solana/web3.js" "^0.90.0"
     bn.js "^5.1.2"

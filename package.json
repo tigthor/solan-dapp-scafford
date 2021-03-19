@@ -7,12 +7,16 @@
     "@craco/craco": "^5.7.0",
     "@ledgerhq/hw-transport-webusb": "^5.41.0",
 <<<<<<< HEAD
+<<<<<<< HEAD
     "@project-serum/serum": "^0.13.11",
 <<<<<<< HEAD
     "@project-serum/sol-wallet-adapter": "^0.2.0",
     "@solana/spl-token": "0.0.11",
 =======
     "@project-serum/serum": "^0.13.25",
+=======
+    "@project-serum/serum": "^0.13.29",
+>>>>>>> 2cb9c32... feat: add useUserTotalBalance
     "@project-serum/sol-wallet-adapter": "^0.1.5",
     "@solana/spl-token": "0.0.11",
     "@solana/spl-token-registry": "^0.2.2",
