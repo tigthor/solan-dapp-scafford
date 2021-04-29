@@ -8,6 +8,7 @@
     "@ledgerhq/hw-transport-webusb": "^5.41.0",
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     "@project-serum/serum": "^0.13.11",
 <<<<<<< HEAD
     "@project-serum/sol-wallet-adapter": "^0.2.0",
@@ -30,6 +31,14 @@
 =======
 >>>>>>> f1c3280... remove unused dependencies
     "@solana/web3.js": "^0.86.2",
+=======
+    "@project-serum/serum": "^0.13.34",
+    "@project-serum/sol-wallet-adapter": "^0.2.0",
+    "@solana/spl-token": "0.1.3",
+    "@solana/spl-token-registry": "^0.2.64",
+    "@solana/spl-token-swap": "0.1.0",
+    "@solana/web3.js": "^1.7.1",
+>>>>>>> eef68f4... feat: update references
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@types/react-router-dom": "^5.1.6",
